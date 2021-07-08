@@ -21,6 +21,8 @@ The data set consists of some 7.6 million records. Some of the features include
 - the number of rooms booked
 - whether the booking was completed
 
+The notebook assumes that the data set hotel_train.csv is in the current working directory. This data can be downloaded at https://www.kaggle.com/c/expedia-hotel-recommendations/data?select=train.csv
+
 ## What methods
 
 A prediction consists of five guesses. The accuracy of the prediction is scored by nearness of the actual result to the top of the predicted list. 
